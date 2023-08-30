@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou Estagiario de Projetos em uma empresa de concultoria em T.I
 - 🌱 Estudando Python, SQL e Java
-- 📩 Contate-me no emial: joaotunelipedromoura@gmail.com
+- 📩 Contate-me no E-mail: joaotunelipedromoura@gmail.com
 - 😊 Pronome: ele/dele
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
