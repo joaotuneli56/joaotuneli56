@@ -8,13 +8,13 @@
 Descritivo do que voce vai encontrar em cada repositorio do meu perfil
 
 <div>
-  <h1>JAVA_POO</h1>
+  <h2>JAVA_POO</h2>
   <p>Repositório focado em meus projetos realizados em JAVA</p>
 
-  <h1>Power BI</h1>
+  <h2>Power BI</h2>
   <p>Repositório onde possuo dois dashboards feitos em Power BI, utilizando como base de dados duas tabels fictícias de uma empresa</p>
 
-  <h1>Challenge_Sprint_FIAP2023</h1>
+  <h2>Challenge_Sprint_FIAP2023</h2>
   <p>Repositório utilizado para armazenar trabalhos da faculdade</p>
 </div>
 
