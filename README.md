@@ -7,13 +7,16 @@
 
 Descritivo do que voce vai encontrar em cada repositorio do meu perfil
 
-<h1>JAVA_POO</h1>
-<p>aaaa</p>
+<div>
+  <h1>JAVA_POO</h1>
+  <p>Repositório focado em meus projetos realizados em JAVA</p>
 
-<h1>JAVA_POO</h1>
+  <h1>Power BI</h1>
+  <p>Repositório onde possuo dois dashboards feitos em Power BI, utilizando como base de dados duas tabels fictícias de uma empresa</p>
 
-
-<h1>JAVA_POO</h1>
+  <h1>Challenge_Sprint_FIAP2023</h1>
+  <p>Repositório utilizado para armazenar trabalhos da faculdade</p>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
