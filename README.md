@@ -1,9 +1,8 @@
 ### Olá! Eu sou João Pedro, tudo bem ? 🖐️
-
-- 🔭 Atualmente sou Estagiario de Projetos em uma empresa de concultoria em T.I
-- 🌱 Estudando Python, SQL e Java
+- 🔭 Atualmente estagiando com integração de sistemas( APIs & MicroServiços ) e DevSecOps
+- 🌱 Estudando Java, API Rest, Docker e Kubernets
 - 📩 Contate-me no E-mail: joaotunelipedromoura@gmail.com
-- 😊 Pronome: ele/dele
+- 👔 Linkdln : <https://www.linkedin.com/in/jo%C3%A3o-pedro-moura-tuneli-6282931b5/>
 
 Descritivo do que voce vai encontrar em cada repositorio do meu perfil
 
