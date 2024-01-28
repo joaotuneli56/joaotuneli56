@@ -1,6 +1,6 @@
 ### Olá! Eu sou João Pedro, tudo bem ? 🖐️
 - 🔭 Atualmente estagiando com integração de sistemas( APIs & MicroServiços ) e DevSecOps
-- 🌱 Estudando Java, API Rest, Docker e Kubernets
+- 🌱 Estudando Java, API Rest, Docker, Kubernets e Microsservice
 - 📩 Contate-me no E-mail: joaotunelipedromoura@gmail.com
 - 👔 Linkdln : <https://www.linkedin.com/in/jo%C3%A3o-pedro-moura-tuneli-6282931b5/>
 
